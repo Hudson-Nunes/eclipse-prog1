@@ -1,5 +1,4 @@
-
-# primeiro-projeto
+# Lab. Prog. I
 
 Exercícios de classe, avaliações e trabalhos (projetos), realizados nas disciplinas de Laboratório de Progração I e de Programação I.
 
