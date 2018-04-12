@@ -10,6 +10,8 @@ Curso de Análise e Desenvolvimento de Sistemas (Unisinos), semestre 2017/II.
 - Teclado (pacote auxiliar para entrada de dados) - aula 12;
 - Exercício 2, Parte 1 (métodos getters e setters e instanciar objetos) - aula 13;
 - Exercício 2, Parte 2 (instanciar objetos e métodos aleatórios) - aula 14;
+- Pedra, papel, tesoura, spock - aula 15;
+- Vetor (arrays unidimensionais) - aula 15;
 
 ## Requisitos:
 - Java JDK;
