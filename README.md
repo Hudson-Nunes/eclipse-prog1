@@ -18,13 +18,14 @@ Curso de Análise e Desenvolvimento de Sistemas (Unisinos), semestre 2017/II.
 - Biblioteca (sisteminha básico para gerenciar uma lista de livros);
 - Servidor de e-mail (sistema que emula o envio e recebimento de e-mails) - NECESSITA REVISÃO;
 - Cadastro aeronaves (sistema de cadastro para aeronaves); 
+- Assembleia legislativa (herança e métodos com arrays) - NECESSITA REVISÃO; 
 
 ## Requisitos:
 - Java JDK;
 - Eclipse.
 
 ## Licença:
-Este projeto está licenciado sob a MIT License.
+Este projeto está licenciado sob a MIT License. Para detalhes, consultar o arquivo [LICENSE.md](LICENSE.md)  
 
 ## Agradecimentos:
 - Professor Ernesto;
