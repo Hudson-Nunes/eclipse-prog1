@@ -11,7 +11,9 @@ Curso de Análise e Desenvolvimento de Sistemas (Unisinos), semestre 2017/II.
 - Exercício 2, Parte 1 (métodos getters e setters e instanciar objetos) - aula 13;
 - Exercício 2, Parte 2 (instanciar objetos e métodos aleatórios) - aula 14;
 - Pedra, papel, tesoura, spock - aula 15;
-- Vetor (arrays unidimensionais) - aula 15;
+- Vetor (arrays unidimensionais) - aula 16;
+- Exercício Arrays (mais sobre arrays) - aula 17;
+- Conta corrente - aula 19;
 
 ## Requisitos:
 - Java JDK;
