@@ -8,7 +8,7 @@ Curso de Análise e Desenvolvimento de Sistemas (Unisinos), semestre 2017/II.
 - Primeiro projeto (o básico do hello world) - aula 11;
 - Segundo projeto (entrada de dados e métodos básicos) - aula 12;
 - Teclado (pacote auxiliar para entrada de dados) - aula 12;
-- Exercício 2, Parte 1 (métodos getters e setters e instanciar objetos) - aula 13;
+- Exercício 2, Parte 1 (métodos getters e setters e instanciar objetos) - aula 13; 
 - Exercício 2, Parte 2 (instanciar objetos e métodos aleatórios) - aula 14;
 - Pedra, papel, tesoura, spock - aula 15;
 - Vetor (arrays unidimensionais) - aula 16;
