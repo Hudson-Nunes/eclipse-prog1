@@ -14,6 +14,10 @@ Curso de Análise e Desenvolvimento de Sistemas (Unisinos), semestre 2017/II.
 - Vetor (arrays unidimensionais) - aula 16;
 - Exercício Arrays (mais sobre arrays) - aula 17;
 - Conta corrente - aula 19;
+- Criptografia (algoritmo que cifra e decifra mensagem);
+- Biblioteca (sisteminha básico para gerenciar uma lista de livros);
+- Servidor de e-mail (sistema que emula o envio e recebimento de e-mails) - NECESSITA REVISÃO;
+- Cadastro aeronaves (sistema de cadastro para aeronaves); 
 
 ## Requisitos:
 - Java JDK;
